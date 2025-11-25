@@ -1,44 +1,65 @@
-I’m Punit Pal, a Data Analyst skilled in transforming raw data into clear, actionable insights using modern analytics tools like Python (Pandas, NumPy, Matplotlib, Seaborn), MySQL, Advanced Excel, and Power BI.
+# 👋 Hi, I'm **Punit Pal**
+### **Data Analyst | Dashboard Developer | SQL Expert | Python Enthusiast**
 
-Over the last months, I have completed multiple real-world projects involving:
+I specialize in transforming **raw data** into **clear, actionable insights** using modern analytics tools and automation workflows.
 
-Data cleaning, wrangling & EDA (Exploratory Data Analysis)
-Building dashboards (Power BI + Excel)
-SQL-based data querying & reporting
-Statistical analysis for decision-making
-AI-powered data analysis workflows
+---
 
-I’m comfortable communicating insights through clean reports, dashboards, and storytelling presentations, using MS PowerPoint, Google Slides, and AI tools.
+## 🚀 About Me
 
-I’m currently looking for:
-🔹 Freelancing Projects
-🔹 Remote Data Analyst Roles
-🔹 Internships or On-site Junior Analyst Roles (if required)
+Skilled in:
 
-My strengths include:
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **MySQL**
+- **Advanced Excel**
+- **Power BI**
+- **AI-powered analytics tools**
 
-Strong analytical thinking
-Clean, organized data presentation
-Fast learning & adaptability
-Client-focused work approach
-Clear communication
+In the last few months, I’ve completed multiple **real-world projects** involving:
 
-My Goal:
-To help startups, small businesses, and creators understand their data and make better decisions using insights, visualization, and automation.
+- 🧹 Data Cleaning & Wrangling  
+- 🔍 Exploratory Data Analysis (EDA)  
+- 📊 Dashboard Building (Power BI & Excel)  
+- 🧮 Statistical Analysis  
+- 📝 SQL-based Data Reporting  
+- 🤖 AI-driven data workflows  
+- 📈 Insight storytelling with clean presentations (PPT & Google Slides)
 
-If you are looking for a dedicated Data Analyst with practical skills and a problem-solving mindset—I’m ready to collaborate!
+---
 
-<!--
-**punitpalofficial/punitpalofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 What I’m Looking For
 
-Here are some ideas to get you started:
+- 🔹 Freelancing Projects  
+- 🔹 Remote Data Analyst Roles  
+- 🔹 Internships or On-site Junior Analyst Opportunities  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 My Strengths
+
+- Strong analytical & logical thinking  
+- Clean and organized data presentation  
+- Fast learning & adaptability  
+- Client-focused problem-solving  
+- Clear and effective communication  
+
+---
+
+## 🎯 My Goal
+
+To help **startups, small businesses, and creators** understand their data and make smarter decisions through:
+
+- Insights  
+- Visualizations  
+- Dashboards  
+- Automation  
+
+If you're looking for a **dedicated Data Analyst** with practical skills and a results-driven mindset —  
+**I’m ready to collaborate!**
+
+---
+
+## 📬 Connect With Me
+
+Feel free to reach out for projects, collaborations, or internship opportunities.
+
