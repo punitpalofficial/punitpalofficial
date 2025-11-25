@@ -47,7 +47,7 @@ In the last few months, I’ve completed multiple **real-world projects** involv
 
 ## 🎯 My Goal
 
-To help **startups, small businesses, and creators** understand their data and make smarter decisions through:
+To help **startups, businesses, and creators** understand their data and make smarter decisions through:
 
 - Insights  
 - Visualizations  
